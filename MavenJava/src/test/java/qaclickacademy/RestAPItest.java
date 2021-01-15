@@ -23,4 +23,13 @@ public class RestAPItest {
 		System.out.println("D");
 		System.out.println("D");
 	}
+	
+	@Test
+	public void E()
+	{
+		System.out.println("E");
+		System.out.println("E");
+		System.out.println("E");
+		System.out.println("E");
+	}
 }

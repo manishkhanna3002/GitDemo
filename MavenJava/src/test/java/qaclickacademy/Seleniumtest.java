@@ -18,4 +18,9 @@ public class Seleniumtest {
 	{
 		System.out.println("B");
 	}
+	
+	public void C()
+	{
+		System.out.println("C");
+	}
 }
