@@ -8,11 +8,17 @@ public class RestAPItest {
 	public void C()
 	{
 		System.out.println("C");
+		System.out.println("C");
+		System.out.println("C");
+		System.out.println("C");
 	}
 	
 	@Test
 	public void D()
 	{
+		System.out.println("D");
+		System.out.println("D");
+		System.out.println("D");
 		System.out.println("D");
 	}
 }
